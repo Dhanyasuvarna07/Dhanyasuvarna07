@@ -34,6 +34,13 @@
 [![Dhanya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhanyasuvarna07&theme=github-compact)](https://github.com/Dhanyasuvarna07)
 
 
----
 
 > *"Code. Learn. Build. Repeat."* 🚀
+
+
+## 🐍 Contribution Journey
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhanyasuvarna07/Dhanyasuvarna07/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Dhanyasuvarna07/Dhanyasuvarna07/output/github-contribution-grid-snake.svg">
+</picture>
